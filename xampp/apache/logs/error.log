@@ -1,0 +1,21 @@
+[Fri Oct 12 11:35:27.897997 2018] [ssl:warn] [pid 9964:tid 676] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 12 11:35:28.140785 2018] [ssl:warn] [pid 9964:tid 676] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 12 11:35:28.318681 2018] [mpm_winnt:notice] [pid 9964:tid 676] AH00455: Apache/2.4.34 (Win32) OpenSSL/1.1.0i PHP/7.2.10 configured -- resuming normal operations
+[Fri Oct 12 11:35:28.318681 2018] [mpm_winnt:notice] [pid 9964:tid 676] AH00456: Apache Lounge VC15 Server built: Aug 15 2018 11:10:17
+[Fri Oct 12 11:35:28.318681 2018] [core:notice] [pid 9964:tid 676] AH00094: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Fri Oct 12 11:35:28.396803 2018] [mpm_winnt:notice] [pid 9964:tid 676] AH00418: Parent: Created child process 2320
+[Fri Oct 12 11:35:29.148280 2018] [ssl:warn] [pid 2320:tid 696] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 12 11:35:29.210803 2018] [ssl:warn] [pid 2320:tid 696] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 12 11:35:29.288901 2018] [mpm_winnt:notice] [pid 2320:tid 696] AH00354: Child: Starting 150 worker threads.
+[Fri Oct 12 11:43:03.603515 2018] [ssl:warn] [pid 8732:tid 692] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 12 11:43:03.763059 2018] [ssl:warn] [pid 8732:tid 692] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 12 11:43:03.810029 2018] [mpm_winnt:notice] [pid 8732:tid 692] AH00455: Apache/2.4.34 (Win32) OpenSSL/1.1.0i PHP/7.2.10 configured -- resuming normal operations
+[Fri Oct 12 11:43:03.810029 2018] [mpm_winnt:notice] [pid 8732:tid 692] AH00456: Apache Lounge VC15 Server built: Aug 15 2018 11:10:17
+[Fri Oct 12 11:43:03.810029 2018] [core:notice] [pid 8732:tid 692] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Fri Oct 12 11:43:03.836060 2018] [mpm_winnt:notice] [pid 8732:tid 692] AH00418: Parent: Created child process 14436
+[Fri Oct 12 11:43:04.958485 2018] [ssl:warn] [pid 14436:tid 684] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 12 11:43:05.106462 2018] [ssl:warn] [pid 14436:tid 684] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 12 11:43:05.153432 2018] [mpm_winnt:notice] [pid 14436:tid 684] AH00354: Child: Starting 150 worker threads.
+[Wed Oct 17 20:59:58.328566 2018] [php7:notice] [pid 14436:tid 1944] [client 192.168.1.121:54091] PHP Notice:  Undefined index: HTTP_HOST in C:\\xampp\\htdocs\\index.php on line 7
+[Fri Nov 02 10:12:20.172422 2018] [php7:error] [pid 14436:tid 1932] [client ::1:54008] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\\xampp\\phpMyAdmin\\libraries\\classes\\Header.php on line 28
+[Fri Nov 02 10:12:20.771047 2018] [php7:error] [pid 14436:tid 1932] [client ::1:54008] PHP Fatal error:  Uncaught Error: Call to a member function getDisplay() on null in C:\\xampp\\phpMyAdmin\\libraries\\classes\\Response.php:266\nStack trace:\n#0 C:\\xampp\\phpMyAdmin\\libraries\\classes\\Response.php(279): PhpMyAdmin\\Response->_getDisplay()\n#1 C:\\xampp\\phpMyAdmin\\libraries\\classes\\Response.php(438): PhpMyAdmin\\Response->_htmlResponse()\n#2 [internal function]: PhpMyAdmin\\Response->response()\n#3 {main}\n  thrown in C:\\xampp\\phpMyAdmin\\libraries\\classes\\Response.php on line 266

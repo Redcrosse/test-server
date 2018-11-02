@@ -1,0 +1,88 @@
+2015-11-10 15:26:56 10fc InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2015-11-10 15:26:56 4348 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2015-11-10 15:26:56 4348 [Note] InnoDB: The InnoDB memory heap is disabled
+2015-11-10 15:26:56 4348 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2015-11-10 15:26:56 4348 [Note] InnoDB: Memory barrier is not used
+2015-11-10 15:26:56 4348 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2015-11-10 15:26:56 4348 [Note] InnoDB: Not using CPU crc32 instructions
+2015-11-10 15:26:56 4348 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2015-11-10 15:26:56 4348 [Note] InnoDB: Completed initialization of buffer pool
+2015-11-10 15:26:56 4348 [Note] InnoDB: Highest supported file format is Barracuda.
+2015-11-10 15:26:57 4348 [Note] InnoDB: 128 rollback segment(s) are active.
+2015-11-10 15:26:57 4348 [Note] InnoDB: Waiting for purge to start
+2015-11-10 15:26:57 4348 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.26-74.0 started; log sequence number 1835027
+2015-11-10 15:26:57 6140 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2015-11-10 15:26:57 4348 [Note] Plugin 'FEEDBACK' is disabled.
+2015-11-10 15:26:57 4348 [Note] Server socket created on IP: '::'.
+2015-11-10 15:26:57 4348 [Note] Event Scheduler: Loaded 0 events
+2015-11-10 15:26:57 4348 [Note] C:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.8-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2015-11-10 15:27:11 5152 [Note] C:\xampp\mysql\bin\mysqld.exe: Normal shutdown
+
+2015-11-10 15:27:11 5152 [Note] Event Scheduler: Purging the queue. 0 events
+2015-11-10 15:27:11 5732 [Note] InnoDB: FTS optimize thread exiting.
+2015-11-10 15:27:11 5152 [Note] InnoDB: Starting shutdown...
+2015-11-10 15:27:13 5152 [Note] InnoDB: Shutdown completed; log sequence number 1835037
+2015-11-10 15:27:13 5152 [Note] C:\xampp\mysql\bin\mysqld.exe: Shutdown complete
+
+2201081-81-01-01-21 211 :4111::264 11:b2960  3I9ndn4o DIBn:n oWDaBr:n iWnagr:n iUnsgi:n gU siinnngo dibn_naodddbi_taidodniatli_omneaml__pmoeoml__psoiozle_ siisz eD EiPsR EDCEAPTREEDC.A TTEhDi.s  Tohpitsi oonp tmiaoyn b em ayr ebmeo vreedm oivne df uitnu rfeu truerlee arseelse,a steosg,e tthoegre twhietrh  wtihteh  otphtei oonp tiinonno dibn_nuosdeb__suysse__msaylsl_omca lalnod cwi tahn d twhiet hI ntnhoeD BI'nsn oiDnBt'esr nianlt emrenmaolr ym eamlolroyc aatlolro.c
+at2o0r1.8
+-21001-81-21 01-11:24 11:12:64 17:02566  1[4N8o0t4e ][ NIontneo]D BI:n nioDnBn:o dibn_neomdpbt_ye_mfprteye__flrieset__lailsgto_railtghomr ihtahsm  bheeans  bceheann gcehda ntgoe dl etgoa clye gbaeccya ubseec aoufs es moafl ls mbaulflf ebru fpfoeorl  psoiozle s.i zIen.  oIrnd eorr dteor  utsoe  ubsaec kboafcfk,o fifn,c rienacsree absuef fbeurf fpeoro lp oaotl  laeta slte auspt  tuop  2t0oM B2.0
+M
+B.
+
+22001188--1100--1122  1111::4411::2277  71045860 4[ N[oNtoe]t eI]n nIonDnBo:D BU:s iUnsgi nmgu tmeuxteesx etso  troe fr ecfo ucnotu nbtu fbfuefrf epro oplo opla gpeasg
+es
+2018-10-122 01118:-4110:-2172  71015:64 1[:N2o7t e1]4 8I0n4n o[DNBo:t Tehe]  IInnnnooDDBB :m eTmhoer yI nhneoaDpB  imse mdoirsya bhleeadp
+ is disabled
+2018-10-12 11:41:22071 87-01506- 1[2N o1t1e:]4 1I:n2n7o D1B4:8 0M4u t[eNxoetse ]a nIdn nrowD_Bl:o cMkust euxsees  Wainndd orwws_ lionctkesr luoscek eWdi nfduonwcst iionntse
+rlocked functions
+2018-10-122 01118:-4110:-2172  71015:64 1[:N2o7t e1]4 8I0n4n o[DNBo:t e_]m mI_nlnfoeDnBc:e (_)m ma_nldf e_mnm_csef(e)n caen(d)  _amrme_ sufseendc ef(o)r  amreem oursye db afrorri emre
+mory barrier
+2018-10-12 21011:84-11:02-71 27 01516: 4[1N:o2t7e ]1 4I8n0n4o D[BN:o tCeo]m pIrnensosDeBd:  tCaoblmesp ruesses ezdl itba b1l.e2s. 3u
+se zlib 1.2.3
+2201081-81-01-01-21 21 11:14:14:12:72 77 015468 0[4N o[tNeo]t eI]n nIonDnBo:D BU:s iUnsgi ngge ngeerniecr iccr cc3r2c 3i2n sitnrsutcrtuicotniso
+ns
+2018-10-12 11:41:27 14804 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2018-10-12 11:41:27 7056 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2018-10-12 11:41:27 14804 [Note] InnoDB: Completed initialization of buffer pool
+2018-10-12 11:41:27 7056 [Note] InnoDB: Completed initialization of buffer pool
+2018-10-12 11:41:27 7056 [ERROR] InnoDB: C:\xampp\mysql\data\ibdata1 can't be opened in read-write mode
+2018-10-12 11:41:27 7056 [ERROR] InnoDB: The system tablespace must be writable!
+2018-10-12 11:41:27 7056 [ERROR] Plugin 'InnoDB' init function returned error.
+2018-10-12 11:41:27 7056 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+2018-10-12 11:41:27 7056 [Note] Plugin 'FEEDBACK' is disabled.
+2018-10-12 11:41:27 7056 [ERROR] Unknown/unsupported storage engine: InnoDB
+2018-10-12 11:41:27 7056 [ERROR] Aborting
+
+2018-10-12 11:41:27 14804 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-10-12 11:41:27 14804 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-10-12 11:41:27 14804 [Note] InnoDB: Waiting for purge to start
+2018-10-12 11:41:27 14804 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.39-83.1 started; log sequence number 1835037
+2018-10-12 11:41:27 12548 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-10-12 11:41:27 14804 [Note] Plugin 'FEEDBACK' is disabled.
+2018-10-12 11:41:27 14804 [Note] Server socket created on IP: '::'.
+2018-10-12 11:41:27 14804 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.36-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2018-10-12 11:43:09 39e8 InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2018-10-12 11:43:09 14824 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-10-12 11:43:09 14824 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-10-12 11:43:09 14824 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-10-12 11:43:09 14824 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2018-10-12 11:43:09 14824 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2018-10-12 11:43:09 14824 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-10-12 11:43:09 14824 [Note] InnoDB: Using generic crc32 instructions
+2018-10-12 11:43:09 14824 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2018-10-12 11:43:09 14824 [Note] InnoDB: Completed initialization of buffer pool
+2018-10-12 11:43:09 14824 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-10-12 11:43:09 14824 [Note] InnoDB: The log sequence number 1835037 in ibdata file do not match the log sequence number 1835047 in the ib_logfiles!
+2018-10-12 11:43:09 14824 [Note] InnoDB: Restoring possible half-written data pages from the doublewrite buffer...
+2018-10-12 11:43:10 14824 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-10-12 11:43:10 14824 [Note] InnoDB: Waiting for purge to start
+2018-10-12 11:43:10 14824 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.39-83.1 started; log sequence number 1835047
+2018-10-12 11:43:10 14368 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-10-12 11:43:10 14824 [Note] Plugin 'FEEDBACK' is disabled.
+2018-10-12 11:43:10 14824 [Note] Server socket created on IP: '::'.
+2018-10-12 11:43:10 14824 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.36-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
